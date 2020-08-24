@@ -11,7 +11,7 @@
 
 	<groupId>wicket-spring-homepage</groupId>
 	<artifactId>wicket-spring-homepage</artifactId>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>wicket-spring-homepage</name>
 <!--	<description>Demo project for Spring Boot</description>-->
 
